@@ -1,17 +1,14 @@
-## Hi I'm Mainor Martinez 👋
-![Banner de Estudiante de Ingeniería](imagen baner.png)
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Banner: Future Engineer, Computer Engineering | First Year" width="800" />
+</p>
 
-<!--
-**OliviercodeX/OliviercodeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy [Tu Nombre] 👋
 
-Here are some ideas to get you started:
+Soy un estudiante entusiasta de primer año de Ingeniería de Computación. Apasionado por el desarrollo de software, la lógica y la resolución de problemas. En este perfil, compartiré mis proyectos, avances y todo lo que aprenda en mi viaje en el mundo de la programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lo que estoy aprendiendo y explorando:
+- **Lenguajes:** Python, C++, Java (¡empezando!)
+- **Conceptos:** Estructuras de Datos, Algoritmos, Lógica de Programación
+- **Intereses:** Inteligencia Artificial, Desarrollo Web, Automatización
+
+¡Conéctate conmigo! Estoy abierto a colaboraciones y a aprender de la comunidad.
