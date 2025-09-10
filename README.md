@@ -2,13 +2,13 @@
   <img src="imagen_2025-09-09_193419286.png" alt="Banner: Future Engineer, Computer Engineering | First Year" width="800" />
 </p>
 
-# ¡Hola! Soy Mainor Martinez 👋
+# Hello! I'm Mainor Martinez 👋
 
-Soy un estudiante entusiasta de primer año de Ingeniería de Computación. Apasionado por el desarrollo de software, la lógica y la resolución de problemas. En este perfil, compartiré mis proyectos, avances y todo lo que aprenda en mi viaje en el mundo de la programación.
+I'm an enthusiastic first-year Computer Engineering student. I'm passionate about software development, logic, and problem-solving. On this profile, I'll be sharing my projects, progress, and everything I learn on my journey into the world of programming.
 
-## Lo que estoy aprendiendo y explorando:
-- **Lenguajes:** Python, C++, Java (¡empezando!)
-- **Conceptos:** Estructuras de Datos, Algoritmos, Lógica de Programación
-- **Intereses:** Inteligencia Artificial, Desarrollo Web, Automatización y Ciberseguridad
+## What I'm learning and exploring:
+- **Languages:** Python, C++, Java (getting started!)
+- **Concepts:** Data Structures, Algorithms, Programming Logic
+- **Interests:** Artificial Intelligence, Web Development, Automation, and Cybersecurity
 
-¡Conéctate conmigo! Estoy abierto a colaboraciones y a aprender de la comunidad.
+Connect with me! I'm open to collaborations and learning from the community.
