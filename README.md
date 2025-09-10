@@ -2,7 +2,7 @@
   <img src="URL_DE_TU_IMAGEN" alt="Banner: Future Engineer, Computer Engineering | First Year" width="800" />
 </p>
 
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Mainor Martinez] 👋
 
 Soy un estudiante entusiasta de primer año de Ingeniería de Computación. Apasionado por el desarrollo de software, la lógica y la resolución de problemas. En este perfil, compartiré mis proyectos, avances y todo lo que aprenda en mi viaje en el mundo de la programación.
 
