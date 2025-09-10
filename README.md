@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagen baner.png" alt="Banner: Future Engineer, Computer Engineering | First Year" width="800" />
+  <img src="imagen_2025-09-09_193419286.png" alt="Banner: Future Engineer, Computer Engineering | First Year" width="800" />
 </p>
 
 # ¡Hola! Soy Mainor Martinez 👋
