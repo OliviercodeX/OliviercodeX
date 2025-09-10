@@ -1,5 +1,5 @@
 ## Hi I'm Mainor Martinez 👋
-![Texto Alternativo del Banner](https://github.com/OliviercodeX/OliviercodeX/blob/main/imagen%)
+![Banner de Estudiante de Ingeniería](imagen baner.png)
 
 <!--
 **OliviercodeX/OliviercodeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
