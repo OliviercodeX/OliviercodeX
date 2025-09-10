@@ -9,6 +9,6 @@ Soy un estudiante entusiasta de primer año de Ingeniería de Computación. Apas
 ## Lo que estoy aprendiendo y explorando:
 - **Lenguajes:** Python, C++, Java (¡empezando!)
 - **Conceptos:** Estructuras de Datos, Algoritmos, Lógica de Programación
-- **Intereses:** Inteligencia Artificial, Desarrollo Web, Automatización
+- **Intereses:** Inteligencia Artificial, Desarrollo Web, Automatización y Ciberseguridad
 
 ¡Conéctate conmigo! Estoy abierto a colaboraciones y a aprender de la comunidad.
